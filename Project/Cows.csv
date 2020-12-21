@@ -1,4 +1,4 @@
-"HerdNumber","Race","Disease","Huld","Hasetrykning","Andre_trykninger","Halthed","Hud_Haarlag","Hygiejne_yver","Hygiejne_haser","Flugtafstand","Boer","Skede","Goedning","Ketonstof_urin","CMT_min_1_kirtel","Rejseadfaerd","LactationNumber","Calving_month","InseminationNumber","Insemination_month","MilkYield","change_milkyield","DiseaseCategory"
+"HerdNumber","Race","Disease","Huld","Hasetrykning","Andre_trykninger","Halthed","Hud_Haarlag","Hygiejne_yver","Hygiejne_haser","Flugtafstand","Boer","Skede","Goedning","Ketonstof_urin","CMT_min_1_kirtel","Rejseadfaerd","LactationNumber","Calving_month","InseminationNumber","Insemination_month","MilkYield","Change_milkyield","DiseaseCategory"
 "3","Danish Holstein","Tyk has","3.5",,,,,,,,"4","0","5","1",,,1,1,0,0,21.2000007629395,-13.3,"Hoof and limb disorders"
 "3","Danish Holstein","Tyk has","3.5",,,,,,,,"2","0","6","1",,,1,0,1,1,32.2999992370605,0,"Hoof and limb disorders"
 "3","Danish Holstein","Tyk has",,,,,,,,,,,,,,,2,0,1,0,24.1000003814697,24.1,"Hoof and limb disorders"
